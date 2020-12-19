@@ -1,0 +1,4 @@
+﻿NumeroEntero1,NumeroEntero2,esperado
+0,1,1
+1,2,3
+2,-3,-1
